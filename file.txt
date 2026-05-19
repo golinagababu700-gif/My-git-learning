@@ -31,3 +31,11 @@ till here commiting in local system is done, now we need to push our files to Gi
 
 
 git clone url ---> cloning the repo
+
+git branch -m newbranch name ---> creating new branch
+notepad filename.txt ---> new file in new branch
+git add .
+git commit -m " this is new file in new branch upfdate"
+git push -u origin newnranch
+
+
