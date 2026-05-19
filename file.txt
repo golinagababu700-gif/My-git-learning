@@ -1,0 +1,12 @@
+Hi my self nagababu, writing all the git functionalities here.
+
+
+git config --global user.name "" ---> for configuring user name
+git config --global user.email "" ---> for configuration of account
+
+git init ---> for initialization of repository
+git add . ----> uploading the file into stagging area
+mkdir filename ----> making new directory in our repo
+notepad filename.txt ---> for creating new text file.
+
+git status---> to know status of our repository
