@@ -38,4 +38,6 @@ git add .
 git commit -m " this is new file in new branch upfdate"
 git push -u origin newnranch
 
+git restore . --->mistake happen go to previous.
+
 
