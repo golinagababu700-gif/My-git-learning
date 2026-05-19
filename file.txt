@@ -1,4 +1,4 @@
-Hi my self nagababu, writing all the git functionalities here.
+ writing all the git functionalities here.
 
 
 git config --global user.name "" ---> for configuring user name
@@ -18,7 +18,7 @@ git and GitHub are not same, git is the version control system and GitHub is onl
 cd directoryname ---> changing the directory
 mkdir directoryname --> making new directory
 
-mr filename --> removes the file from directory.
+rm filename --> removes the file from directory.
 
 
 
@@ -26,13 +26,13 @@ till here commiting in local system is done, now we need to push our files to Gi
 1.we need to open new repo in our GitHub portal
 2.git commit -m ""
 3.git branch -M main ---> creating main branch
-4.git remote add origin https://github.com/golinagababu700-gif/reponame.git
+4.git remote add origin https://github.com/golinagababu700-gif/reponame.git ----> connecting to our GitHub portal
 5.git push -u origin main
 
 
 git clone url ---> cloning the repo
 
-git branch -m newbranch name ---> creating new branch
+git branch -m newbranchname ---> creating new branch
 notepad filename.txt ---> new file in new branch
 git add .
 git commit -m " this is new file in new branch upfdate"
